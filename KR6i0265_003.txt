@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:29.894133
+#+DATE: 2015-08-30 20:14:31.386134
 #+TITLE: 佛說未曾有正法經
 #+PROPERTY: CBETA_ID T15n0628
 #+PROPERTY: ID KR6i0265
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 628
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6i0265_T_003-0435c> ¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《佛說未曾有正法經》卷第三¶
+《佛說未曾有正法經》卷第三¶
 ¶
 西天譯經三藏朝奉大夫試鴻臚卿¶
 傳教大師臣法天奉　詔譯¶
@@ -123,7 +122,7 @@
 放斯光明。惟願世尊示我令知。佛告苾芻言¶
 汝見此二童子所獻瓔珞於佛前住不。苾芻¶
 白佛言。唯然已見。佛言。苾芻。此二童子為求¶
-聲聞果故。樂欲趣證自利涅盤。不能發起大¶
+聲聞果故。樂欲趣證自利涅槃。不能發起大¶
 菩提心。苾芻。汝見前一童子。所獻瓔珞在於¶
 佛上於虛空中作諸變化。此人為欲趣證無
 <pb:KR6i0265_T_003-0436c>¶
