@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:14:29.860874
+#+DATE: 2015-08-30 20:14:32.488705
 #+TITLE: 佛說未曾有正法經
 #+PROPERTY: CBETA_ID T15n0628
 #+PROPERTY: ID KR6i0265
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 628
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0265_T_002-0431c> ¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說未曾有正法經》卷第二¶
+《佛說未曾有正法經》卷第二¶
 ¶
 西天譯經三藏朝奉大夫試鴻臚卿¶
 傳教大師臣法天奉　詔譯¶
