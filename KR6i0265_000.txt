@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說未曾有正法經
+#+DATE: 2015-08-30 20:14:30.221781
+#+PROPERTY: JUAN 0
